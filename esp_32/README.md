@@ -2,9 +2,9 @@
 
 | Frecuencia | Tiempo |     
 | ---------- | ------ | 
-| 80 MHz     | XX     |     
-| 160 MHz    | XX     |     
-| 240 MHz    | XX     |     
+| 80 MHz     | 16.51     |     
+| 160 MHz    | 8.8  |     
+| 240 MHz    | 5.5    |     
 
     Nota: Los flotantes son ~10-100x más lentos que los enteros en ESP32
 
