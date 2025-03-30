@@ -1,6 +1,6 @@
 ### Resultados Esperados
 
-| Frecuencia | Tiempo |     
+| Frecuencia | Tiempo(s) |     
 | ---------- | ------ | 
 | 80 MHz     | 16.51     |     
 | 160 MHz    | 8.8  |     
