@@ -1,8 +1,10 @@
-Resultados Esperados
-|Frecuencia	|Tiempo |
-|80 MHz |	XXXX |
-|160 MHz |	XXXX |
-|240 MHz |	XXXX	|
+### Resultados Esperados
+
+| Frecuencia | Tiempo |     
+| ---------- | ------ | 
+| 80 MHz     | XX     |     
+| 160 MHz    | XX     |     
+| 240 MHz    | XX     |     
 
     Nota: Los flotantes son ~10-100x más lentos que los enteros en ESP32
 
